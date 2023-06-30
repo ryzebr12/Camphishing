@@ -2,7 +2,7 @@
 FROM debian:latest
 
 # Author info
-LABEL MAINTAINER="https://github.com/ryzebr12/CamHacker"
+LABEL MAINTAINER="https://github.com/ryzebr12/Camphishing"
 
 # Working directory
 WORKDIR /CamHacker/
